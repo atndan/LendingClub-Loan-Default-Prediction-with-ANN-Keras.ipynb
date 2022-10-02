@@ -1,6 +1,6 @@
 **Loan Default Prediction using ANN Keras**
 
-LendingClub Dataset from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+LendingClub Dataset from Kaggle
 
 **Overview**
 
